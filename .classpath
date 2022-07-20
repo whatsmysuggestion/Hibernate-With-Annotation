@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/commons-lang.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/ejb3-persistence-1.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/hibernate-annotations-3.4.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/hibernate-commons-annotations-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/hibernate-core-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/mysql-connector-java-5.1.14.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-context-support-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-orm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/spring-webmvc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/HibernateAnnotations/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
